@@ -1,4 +1,4 @@
-# GeoMaqpper
+# GeoMapper
 
 This project is a Flask web application for classifying remote sensing images using a pre-trained MobileNetV2 model. Users can upload an image, and the application will classify it according to one of the classes from the UC Merced Land Use Dataset. This is a personal project to show case my M.Tech thesis work on remote sensing image classification.
 
